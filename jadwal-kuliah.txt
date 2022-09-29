@@ -1,0 +1,5 @@
+senin 
+-sistem basis data
+selasa
+- praktikum sistem basis data
+-kemanan aplikasi
