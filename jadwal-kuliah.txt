@@ -3,3 +3,8 @@ senin
 selasa
 - praktikum sistem basis data
 -kemanan aplikasi
+rabu
+-pemrograman web
+- kemanan aplikasi
+jumat
+-pemrograman web
